@@ -1,2 +1,6 @@
 var helloString = "Hello World";
 alert(helloString);
+document.writeln("Hello World2! <br>");
+document.writeln("Hello World3! <br>");
+document.writeln("Hello World4! <br>");
+document.writeln("Hello World5! <br>");
